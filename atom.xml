@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://createm00n.github.io</id>
+    <title>创趣月野</title>
+    <updated>2022-06-20T13:53:04.452Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://createm00n.github.io"/>
+    <link rel="self" href="https://createm00n.github.io/atom.xml"/>
+    <subtitle>CreateMoon</subtitle>
+    <logo>https://createm00n.github.io/images/avatar.png</logo>
+    <icon>https://createm00n.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 创趣月野</rights>
+    <entry>
+        <title type="html"><![CDATA[罪恶都市常见问题解答]]></title>
+        <id>https://createm00n.github.io/vc-faq/</id>
+        <link href="https://createm00n.github.io/vc-faq/">
+        </link>
+        <updated>2022-06-20T08:22:52.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://pic.imgdb.cn/item/62b0314a0947543129dedf00.png" alt="" loading="lazy"></figure>
+<p>首先，<strong>请不要直接在压缩包内打开游戏</strong>，那样永远打不开！不会解压请看<a href="https://b23.tv/BV15B4y1m7Dg">🔗视频教程</a></p>
+<figure data-type="image" tabindex="2"><img src="https://pic.imgdb.cn/item/62b0314b0947543129dee060.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://pic.imgdb.cn/item/62b0314b0947543129dedff8.png" alt="" loading="lazy"></figure>
+<p><strong>0.0 前言</strong><br>
+本教程针对电脑小白（上辈子没用过电脑那种），会逐步完善内容。后期会推送视频教程。</p>
+<p><strong>0.1 什么是解压</strong><br>
+解压缩，指把利用压缩技术压缩的<code>.zip</code>；<code>.rar</code>；<code>.7z</code>等格式通过解压缩重新释放为正常文件。需要用到<a href="https://bandizip.com">Bandizip</a>；WinRAR或其他解压缩软件。</p>
+<p>视频教程：<a href="https://b23.tv/BV15B4y1m7Dg">🔗视频教程</a></p>
+<p><strong>0.2 什么是游戏根目录</strong><br>
+指游戏所在位置。如果你使用解压缩，则游戏根目录在你解压完的包含<code>gta_vc.exe</code>的目录下。如果使用安装程序，则游戏根目录就是你的安装目录。<br>
+如果您的桌面上有快捷方式，则可以右键—打开文件所在的位置 跳转到根目录。</p>
+<p><strong>0.3 怎么导入/安装游戏存档</strong><br>
+首先，请您找到 <code>库</code>—<code>文档</code>—<code>GTA Vice City User Files</code> 进入。<br>
+如果你游玩的版本尝试过存档，请观察存档GTAVCsf文件后为 <code>.b</code> 格式（原版/无名汉化）还是 <code>.sv</code> 格式（罪吧汉化）<br>
+将您下载好的存档先拖到目录，并重命名为<code>GTAVCsf*.b</code>或<code>GTAVCsf*.sv</code>（<code>*</code>指数字1~8）（不可重复）</p>
+<p><strong>0.4 遇到拳头打不到人 车不能倒车 飞机无法操控 船太慢 任务进度条过快等游戏BUG</strong><br>
+<code>Esc</code>，<code>显示设置</code>/<code>视频设置</code>，找到<code>帧数限制</code>/<code>垂直同步</code>打开。不需要时可以关闭。（大多数时候）</p>
+<p><strong>0.5 怎么创建快捷方式？</strong><br>
+<a href="https://b23.tv/BV15B4y1m7Dg">🔗视频教程</a><br>
+文字教程：进入游戏目录，右键<code>gta_vc.exe</code>，<code>发送到</code>，<code>桌面快捷方式</code>。</p>
+<p><strong>0.6 游戏模糊 分辨率很低怎么办</strong><br>
+请右键<code>gta_vc.exe</code> ，<code>属性</code>，<code>兼容性</code>，取消勾选<code>以兼容模式运行此程序</code> <code>简化的颜色模式</code>以及<code>用640x480分辨率运行</code><br>
+游戏内<code>设置</code> - <code>显示设置</code> 看到屏幕分辨率 点击一下 用小键盘左右调试 找到自己屏幕的分辨率（通常为<code>1920x1080x32</code>）后回车确定</p>
+<p><strong>注意</strong>  开始游戏了改不了 需要重启游戏才可以改！！</p>
+<figure data-type="image" tabindex="4"><img src="https://pic.imgdb.cn/item/62b0314b0947543129dedff8.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="5"><img src="https://pic.imgdb.cn/item/62b0314b0947543129dee060.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="6"><img src="https://pic.imgdb.cn/item/62b0314b0947543129dedff8.png" alt="" loading="lazy"></figure>
+<h4 id="1-中文优化版卡在加载画面进不去"><strong>1 中文优化版卡在加载画面进不去</strong></h4>
+<p>删除游戏目录的括号即可<br>
+例如：（2022）、（2021-7-12）最好一起删</p>
+<figure data-type="image" tabindex="7"><img src="https://pic.imgdb.cn/item/62b0314b0947543129dedff8.png" alt="" loading="lazy"></figure>
+<h4 id="2-弹出缺失mss32dll"><strong>2 弹出缺失mss32.dll</strong></h4>
+<p><strong>可能性一 【未解压直接打开报错/解压不完全】</strong><br>
+请先<strong>解压压缩包内的所有内容后</strong>再游玩（是<strong>所有内容，不是单一个<code>gta_vc.exe</code>！！！</strong>）<br>
+相关视频：<a href="https://b23.tv/BV15B4y1m7Dg">🔗看我就对了</a><br>
+如果依然无法打开或提示无法定位至all@volume位置，<strong>请好好看看视频</strong>，确定打不开再来交流群问问</p>
+<p><strong>可能性二【拖到桌面】</strong><br>
+请不要把游戏直接拖拽到桌面或其他位置，如果不会还想搞可以看视频。<br>
+相关视频：<a href="https://b23.tv/BV15B4y1m7Dg">🔗其实我跟上面那个一样</a></p>
+<figure data-type="image" tabindex="8"><img src="https://pic.imgdb.cn/item/62b0314b0947543129dedff8.png" alt="" loading="lazy"></figure>
+<h4 id="3-弹出cannot-find-1536x864x32-mode并非640x480x32"><strong>3 弹出Cannot Find 1536x864x32 mode（并非640x480x32）</strong></h4>
+<p>请先确认你<strong>已经解压完所有游戏文件</strong> <strong>在解压好的游戏目录运行游戏后依然出现此问题</strong>，<br>
+按下方的 <strong>5</strong> <strong>笔记本/高分屏用户相关配置</strong>` 进行设置。</p>
+<figure data-type="image" tabindex="9"><img src="https://pic.imgdb.cn/item/62b0314b0947543129dedff8.png" alt="" loading="lazy"></figure>
+<h4 id="4-弹出cannot-find-640x480x3216-mode"><strong>4</strong> <strong>弹出Cannot Find 640x480x32(16) mode</strong></h4>
+<p>请右键<code>gta_vc.exe</code> ，<code>属性</code>，<code>兼容性</code>，取消勾选<code>以兼容模式运行此程序</code> <code>简化的颜色模式</code>以及<code>用640x480分辨率运行</code></p>
+<figure data-type="image" tabindex="10"><img src="https://pic.imgdb.cn/item/62b0314b0947543129dedff8.png" alt="" loading="lazy"></figure>
+<h4 id="5-笔记本-高分屏用户相关配置"><strong>5 笔记本、高分屏用户相关配置</strong></h4>
+<p>①右键<code>gta_vc.exe </code><br>
+②<code>属性</code><br>
+③<code>兼容性</code><br>
+然后在这个页面<strong>不要勾选任何选项</strong><br>
+④<code>高DPI设置</code><br>
+⑤勾选最下方的<code>替代高DPI缩放行为</code>并调整缩放执行为<code>应用程序</code><br>
+⑥点两个<code>确定</code>即可</p>
+<figure data-type="image" tabindex="11"><img src="https://pic.imgdb.cn/item/62b0314b0947543129dedff8.png" alt="" loading="lazy"></figure>
+<h4 id="6-缺少d3d9xdll错误弹窗"><strong>6 缺少d3d9x??.dll错误弹窗</strong></h4>
+<p>请下载DirectX Repair工具进行文件修复。<br>
+下载链接：<a href="https://ystian.lanzouu.com/iFniI05kn0aj">🔗蓝奏云</a><br>
+除主群外的交流群群文件均可下载！</p>
+<figure data-type="image" tabindex="12"><img src="https://pic.imgdb.cn/item/62b0314b0947543129dedff8.png" alt="" loading="lazy"></figure>
+<h4 id="7-需要directx-81环境"><strong>7 需要DirectX 8.1环境</strong></h4>
+<p><strong>解决方法一：安装SlientPatch以及宽屏补丁</strong><br>
+下载链接：<a href="https://ystian.lanzouu.com/iEQUP05kotcb">🔗蓝奏云</a><br>
+群文件内名为 DX81快速补丁.zip 也是这个！<br>
+直接把压缩包全部内容拖到游戏目录里即可</p>
+<p><strong>解决方法二：Windows 10/11用户</strong></p>
+<p>①到开始菜单内找到 <code>Windows 系统</code> 文件夹<br>
+②点击 <code>控制面板 </code>打开<br>
+③更改右上角查看方式为 <code>小图标</code><br>
+④找到并点击 <code>程序和功能</code><br>
+⑤点击左侧的<code>启用或关闭 Windows 功能</code><br>
+⑥下拉开启<code>旧版组件</code>（请确认点击<code>+</code>号后下方的<code>DirectPlay</code>也已经打勾）</p>
+<p><strong>解决方法三：全系统</strong><br>
+<strong>（推荐Windows XP 和 7）</strong><br>
+<strong>（可能不适用于Windows 8/8.1/10/11平台）</strong><br>
+请下载DirectX Repair工具进行文件修复。<br>
+下载链接：<a href="https://ystian.lanzouu.com/iFniI05kn0aj">🔗蓝奏云</a></p>
+<figure data-type="image" tabindex="13"><img src="https://pic.imgdb.cn/item/62b0314b0947543129dedff8.png" alt="" loading="lazy"></figure>
+<h4 id="8-please-insert-your-gta-vice-city-cd-or-press-esc-to-cancel-请插入您的gta-vice-city光盘或按esc取消"><strong>8  Please insert your GTA Vice City CD or press ESC to cancel 请插入您的GTA Vice City光盘或按ESC取消</strong></h4>
+<p>下载罪恶都市免 cd 补丁，解压到游戏目录文件夹替换<br>
+下载链接：<a href="https://cfun.lanzout.com/iMnv106ooj3c">🔗蓝奏云</a></p>
+<figure data-type="image" tabindex="14"><img src="https://pic.imgdb.cn/item/62b0314b0947543129dedff8.png" alt="" loading="lazy"></figure>
+<h4 id="9-加modloader后无法打开游戏打开游戏卡住不动弹出c0000005-006f6330代码"><strong>9 加modloader后无法打开游戏/打开游戏卡住不动/弹出c0000005 006f6330代码</strong></h4>
+<p>①右键<code>此电脑</code>/<code>我的电脑</code>/<code>计算机</code><br>
+②<code>属性</code><br>
+③<code>高级系统设置</code><br>
+④点击<code>性能</code>右下方的 <code>设置(S)</code><br>
+⑤点击上方 <code>数据执行保护</code><br>
+⑥勾选<code>为除下列选定程序之外的所有程序和服务启动DEP</code><br>
+⑦点击下方的<code>添加(D)...</code>按钮<br>
+⑧找到游戏所在位置并选择<code>gta_vc.exe</code>，打开<br>
+⑨确定并重新启动系统即可游玩</p>
+<figure data-type="image" tabindex="15"><img src="https://pic.imgdb.cn/item/62b0314b0947543129dedff8.png" alt="" loading="lazy"></figure>
+<h1 id="欢迎补充评论区见">欢迎补充！评论区见！</h1>
+]]></content>
+    </entry>
+</feed>
